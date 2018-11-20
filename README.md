@@ -1,2 +1,2 @@
-# get-geo-Location
+# get-geo-location
 Get Geolocation address using Latitude and longitude
