@@ -1,0 +1,28 @@
+{
+  "name": "get-geo-location",
+  "version": "1.0.0",
+  "description": "Get Geolocation address using Latitude and longitude",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpsaravanan/get-geo-location.git"
+  },
+  "keywords": [
+    "geo",
+    "location"
+  ],
+  "author": "saravanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpsaravanan/get-geo-location/issues"
+  },
+  "homepage": "https://github.com/mpsaravanan/get-geo-location#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-generator": "^4.16.0",
+    "node-geocoder": "^3.22.0"
+  }
+}
